@@ -8,4 +8,5 @@
 - Used Shape to specify rounded corner shapes
 - Changed logo of app
 - Added images to app
--  
+- Imported fonts from google fonts
+
