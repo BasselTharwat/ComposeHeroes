@@ -26,7 +26,10 @@ class MainActivity : ComponentActivity() {
 }
 
 
+@Composable
+fun HeroDetails(){
 
+}
 
 
 @Preview(showBackground = true)
