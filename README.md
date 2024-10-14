@@ -10,4 +10,7 @@
 - Added images to app
 - Imported fonts from google fonts
 - Theme.kt uses the colors, shapes, fonts we imported and created
+- Added a top app bar
+- Used Lazy Columns to display items
+- Responsive to different screen sizes
 
