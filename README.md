@@ -1,8 +1,6 @@
-//incomplete ReadME. Wait.
-
 ### Compose Heroes
 
-- Seperate folder for data source and data models
+- Seperate folders for data source and data models
 - Strings are in res
 - Used Colors to theme app (for dark theme and light theme)
 - Used Shape to specify rounded corner shapes
