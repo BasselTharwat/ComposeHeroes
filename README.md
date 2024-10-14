@@ -12,6 +12,6 @@
 - Used Lazy Columns to display items
 - Responsive to different screen sizes
 
-<img src="https://github.com/user-attachments/assets/3085787c-b02d-4bfd-aa2a-424f04562485" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/3085787c-b02d-4bfd-aa2a-424f04562485" width="250" height="400" />
 
 
